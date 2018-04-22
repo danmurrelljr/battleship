@@ -1,6 +1,10 @@
 # Battleship
 Simple battleship implementation in node.js 
 
+Run using
+
+  `node battleship.js`
+
 Creates a gameboard of arbitrary size, and places ships randomly throughout.
 Just a fun little exercise to practice Javascript and node.
 
