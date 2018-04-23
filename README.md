@@ -1,5 +1,5 @@
 # Battleship
-Simple battleship implementation in node.js 
+Simple battleship implementation in node.js, v6.11.0 or newer
 
 Run using
 
